@@ -13,18 +13,21 @@ const Navbar = () => {
       <div className="mt-5 sm:mt-0 flex justify-between">
         <a
           href="https://github.com/iamzaidmohammed"
+          target="__blank"
           className="mr-4 hover:text-NeonGreen transition-colors"
         >
           <GitHubIcon />
         </a>
         <a
           href="https://twitter.com/iamzaidmohammed"
+          target="__blank"
           className="mr-4 hover:text-NeonGreen transition-colors"
         >
           <TwitterIcon />
         </a>
         <a
           href="https://linkedin.com/iamzaidmohammed"
+          target="__blank"
           className="hover:text-NeonGreen transition-colors"
         >
           <LinkedInIcon />
