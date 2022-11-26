@@ -51,6 +51,7 @@ const Projects = () => {
           />
         </div>
       </div>
+      <hr />
     </div>
   );
 };
