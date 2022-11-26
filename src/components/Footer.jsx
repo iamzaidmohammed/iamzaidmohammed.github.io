@@ -2,15 +2,13 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
-const Navbar = () => {
+const Footer = () => {
   return (
-    <nav className="w-full flex flex-col items-center justify-around pt-2 sm:flex-row sm:items-center sm:pb-2 sm:justify-around md:justify-between">
+    <footer className="w-full flex items-center justify-between py-5 px-5 lg:px-10">
+      <a href="#" className="logo text-2xl">
+        iamzaidmohammed
+      </a>
       <div>
-        <a href="#" className="logo text-2xl">
-          iamzaidmohammed
-        </a>
-      </div>
-      <div className="mt-5 sm:mt-0 flex justify-between">
         <a
           href="https://github.com/iamzaidmohammed"
           target="__blank"
@@ -33,8 +31,8 @@ const Navbar = () => {
           <LinkedInIcon />
         </a>
       </div>
-    </nav>
+    </footer>
   );
 };
 
-export default Navbar;
+export default Footer;
