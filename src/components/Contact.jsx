@@ -15,7 +15,7 @@ const Contact = () => {
         </div>
         <div className="mx-auto basis-1/2">
           <a
-            className="flex gap-5"
+            className="flex gap-5 mb-10"
             href="mailto:zainudeenzaidmohammed7@gmail.com"
             target="__blank"
           >
