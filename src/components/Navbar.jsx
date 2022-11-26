@@ -26,7 +26,7 @@ const Navbar = () => {
           <TwitterIcon />
         </a>
         <a
-          href="https://linkedin.com/iamzaidmohammed"
+          href="https://www.linkedin.com/in/zaid-mohammed-zainudeen-bbb60a1bb/"
           target="__blank"
           className="hover:text-NeonGreen transition-colors"
         >
