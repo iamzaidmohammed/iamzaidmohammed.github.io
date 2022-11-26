@@ -4,7 +4,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
 const Navbar = () => {
   return (
-    <nav className="w-full flex flex-col items-center justify-around pt-2 sm:flex-row sm:items-center sm:pb-2 sm:justify-around md:justify-between">
+    <nav className="w-full bg-NavColor text-white flex flex-col items-center justify-around py-10 sm:flex-row sm:items-center  sm:justify-around md:justify-between drop-shadow-xl md:px-10 lg:px-16 xl:px-20">
       <div>
         <a href="#" className="logo text-2xl">
           iamzaidmohammed

@@ -8,14 +8,16 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <main className="bg-DarkMode text-white md:px-10 lg:px-16 xl:px-20">
+    <>
       <Navbar />
-      <Hero />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
-    </main>
+      <main className="bg-DarkMode text-white md:px-10 lg:px-16 xl:px-20">
+        <Hero />
+        <Skills />
+        <Projects />
+        <Contact />
+        <Footer />
+      </main>
+    </>
   );
 }
 
