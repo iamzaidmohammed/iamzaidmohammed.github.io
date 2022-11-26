@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d1c7b45.css",
+    "main.js": "/static/js/main.b820176f.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/clipboard-landing-page.png": "/static/media/clipboard-landing-page.e56d880cc1c513e7a144.png",
+    "static/media/product-card-preview-component.png": "/static/media/product-card-preview-component.78b8358f48af9f68cc93.png",
+    "static/media/hero.jpg": "/static/media/hero.cb0b6c9a5a555d6afccb.jpg",
+    "static/media/interactive-rating-component.png": "/static/media/interactive-rating-component.c5a747e5b1a4d62626fc.png",
+    "static/media/advice-generator-app.png": "/static/media/advice-generator-app.f0637690cddc7d6aa07c.png",
+    "index.html": "/index.html",
+    "main.4d1c7b45.css.map": "/static/css/main.4d1c7b45.css.map",
+    "main.b820176f.js.map": "/static/js/main.b820176f.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d1c7b45.css",
+    "static/js/main.b820176f.js"
+  ]
+}
