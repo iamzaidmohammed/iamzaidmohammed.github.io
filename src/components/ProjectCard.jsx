@@ -8,7 +8,7 @@ const ProjectCard = ({
   stack3,
 }) => {
   return (
-    <div className="basis-1/2">
+    <div className="basis-1/2 shadow-sm shadow-slate-600">
       <div className="overflow-hidden cursor-pointer">
         <img src={image} alt="" className="hover:scale-110 transition-all" />
       </div>
